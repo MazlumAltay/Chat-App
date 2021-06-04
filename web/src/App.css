@@ -9,7 +9,7 @@ form {
   border-radius: 5px;
   padding: 20px;
   box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
-  background-color: rgb(104, 116, 113);
+  background-color: rgb(226, 156, 25);
 }
 
 .name-field {
@@ -28,7 +28,7 @@ button {
   border-radius: 5px;
   padding: 20px;
   box-shadow: 0px 3px 24px -8px rgba(0, 0, 0, 0.75);
-  background-color: #b6c48f;
+  background-color: #269add;
 }
 
 h3 {
