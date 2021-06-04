@@ -50,10 +50,11 @@ function App() {
 				</div>
 				<hr></hr>
 				<div className="name-field">
-					<TextField name="name" onChange={(e) => onTextChange(e)} value={state.name} label="İsim" />
+					<TextField className="input" name="name" onChange={(e) => onTextChange(e)} value={state.name} label="İsim" />
 				</div>
 				<div>
 					<TextField
+						className="input"
 						name="message"
 						onChange={(e) => onTextChange(e)}
 						value={state.message}
