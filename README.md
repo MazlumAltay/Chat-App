@@ -1,6 +1,6 @@
 ## Chat App
 
-<img src="https://cdn.discordapp.com/attachments/232579663292006412/851066049654292490/chat-app.gif%22/%3E>
+<img src="https://cdn.discordapp.com/attachments/232579663292006412/851066049654292490/chat-app.gif%22/%3E">
 
 ## Installation and Setup Instructions
 
